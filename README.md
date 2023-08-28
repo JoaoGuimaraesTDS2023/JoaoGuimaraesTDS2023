@@ -36,5 +36,3 @@ I created this profile just to organize and store my tasks done in the classroom
 
 ### 📊 My Stats:
   [![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuimaraesTDS2023&theme=onedark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-  ![Snake animation](https://github.com/JoaoGuimaraesTDS2023/JoaoGuimaraesTDS2023/blob/output/github-contribution-grid-snake.svg)
