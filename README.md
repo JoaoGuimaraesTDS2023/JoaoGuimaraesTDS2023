@@ -1,10 +1,3 @@
-<head>
-  
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-</head>
-
-
 # echo "Hello, World!"
 
 Hello! My name is João Gabriel, and I am currently a student of the **Technical Course in Systems Development** at the _Instituto Federal do Paraná - Campus Foz do Iguaçu_. <br/> 
