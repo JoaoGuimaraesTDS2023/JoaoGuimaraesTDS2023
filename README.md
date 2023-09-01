@@ -9,7 +9,7 @@ I created this profile just to organize and store my tasks done in the classroom
 
 * **I understand:**
 
-  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" alt="Portugol" width="40" height="40" hspace="10"/> <img src="https://icons-for-free.com/download-icon-bash+dark-1331550886960171470_512.png" alt="Bash" width="40" height="40" hspace="10"/> 
+  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" alt="Portugol" width="40" height="40" hspace="10"/>
 
 * **I am learning:**
 
