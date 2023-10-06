@@ -13,10 +13,9 @@ I created this profile just to organize and store my tasks done in the classroom
 
 * **I am learning:**
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40" hspace="10"/> <img src="https://icons-for-free.com/download
--icon-bash+dark-1331550886960171470_512
-png" alt="Bash" width="40" height="40"
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"
 hspace="10"/>
+          
 
 * **I want to learn:**
 
