@@ -1,33 +1,22 @@
-# echo "Hello, World!"
+# echo "Hello World!"
 
-Hello! My name is João Gabriel, and I am currently a student of the **Technical Course in Systems Development** at the _Instituto Federal do Paraná - Campus Foz do Iguaçu_. <br/> 
-I created this profile just to organize and store my tasks done in the classroom, as well as some individual learnings.
+Olá, meu nome é João Gabriel. <br>
+Eu, atualmente, estou cursando o Curso Técnico em Desenvolvimento de Sistemas Integrado ao Ensino Médio do IFPR - Campus Foz do Iguaçu. <br>
+Este perfil foi criado, exclusivamente, para armazenar minhas atividades e trabalhos que eu irei desenvolver ao decorrer do curso.
 
 #
           
-### 💻 Languenges:
+### 💻 Linguagens:
 
-* **I understand:**
+  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" alt="portugol" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="css" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" hspace="10"/>
+#
 
-  <img src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" alt="Portugol" width="40" height="40" hspace="10"/>
+### ⚙️ Ferramentas:
 
-* **I am learning:**
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg" alt="chrome" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" hspace="10"/> <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="GitHub" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40" hspace="10"/>
 
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"
-hspace="10"/>
-          
-
-* **I want to learn:**
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40" hspace="10"/> etc.
 
 #
 
-### ⚙️ Current Tools:
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" hspace="5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40" hspace="10"/> <img src="https://static-00.iconduck.com/assets.00/github-icon-2048x1988-jzvzcf2t.png" alt="GitHub" width="40" height="40" hspace="10"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" hspace="10"/> <img src="https://brave.com/static-assets/images/brave-logo-no-shadow.png" alt="Brave" width="40" height="45" hspace="10"/> 
-
-#
-
-### 📊 My Stats:
-  [![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuimaraesTDS2023&theme=onedark&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 Status de Linguagens:
+  [![My Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoGuimaraesTDS2023&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
